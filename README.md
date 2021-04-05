@@ -1,0 +1,2 @@
+- Hi, I’m a Conputer Science student
+- I’m currently learning deep learning
