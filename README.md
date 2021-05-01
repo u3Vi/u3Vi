@@ -1,2 +1,2 @@
 - Hi, I’m a Conputer Science student
-- I’m currently learning deep learning
+- I’m currently Studied about machine learning. Here my [kaggle](https://www.kaggle.com/tarantula3) profile.
